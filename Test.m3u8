@@ -1,21 +1,30 @@
 ﻿#EXTM3U
 #EXTINF:-1,Классика индийского кино
+#EXTGRP: КИНО/СЕРИАЛЫ
 https://v2.catcast.tv/content/41596/index.m3u8
-#EXTINF:-1,Современное индийское кино 
+#EXTINF:-1,Современное индийское кино
+#EXTGRP: КИНО/СЕРИАЛЫ
 https://v2.catcast.tv/content/41458/index.m3u8
 #EXTINF:-1, КИНО 1 INTERNATIONAL
+#EXTGRP: КИНО/СЕРИАЛЫ
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1, Память Старые советские филмы
+#EXTGRP: КИНО/СЕРИАЛЫ
 https://v2.catcast.tv/content/38821/index.m3u8
 #EXTINF:-1, Видеокассета VHS
+#EXTGRP: КИНО/СЕРИАЛЫ
 https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1, Киноклуб
+#EXTGRP: КИНО/СЕРИАЛЫ
 https://v2.catcast.tv/content/39005/index.m3u8
 #EXTINF:-1, Кино 18+
+#EXTGRP: КИНО/СЕРИАЛЫ
 https://v2.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1, Детское Кино
+#EXTGRP: КИНО/СЕРИАЛЫ
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1, Малдер тв Герои Боевиков
+#EXTGRP: КИНО/СЕРИАЛЫ
 https://v2.catcast.tv/content/41822/index.m3u8
 
 
