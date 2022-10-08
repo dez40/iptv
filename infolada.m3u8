@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
 #EXTINF:-1,Trash HD
 #EXTGRP: Кино
 http://178.163.2.233:4022/udp/234.0.0.3:2000
@@ -11,7 +11,7 @@ http://178.163.2.233:4022/udp/234.0.0.5:2000
 #EXTINF:-1,Мосфильм. Золотая коллекция
 #EXTGRP: Кино
 http://178.163.2.233:4022/udp/234.0.0.95:2000
-#EXTINF:-1,	Суббота
+#EXTINF:-1,Суббота
 #EXTGRP: Кино 
 http://178.163.2.233:4022/udp/234.0.0.100:2000
 #EXTINF:-1,Мир сериала

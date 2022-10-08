@@ -1,4 +1,4 @@
-﻿#EXTM3U 
+﻿#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
 #EXTINF:-1,классика индийского кино
 #EXTGRP: Кино 
 https://v2.catcast.tv/content/41596/index.m3u8 

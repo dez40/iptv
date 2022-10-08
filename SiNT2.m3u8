@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
 #EXTINF:-1,Музыка Первого
 #EXTGRP: Музыка
 http://46.43.210.207:4022/udp/239.254.2.2:1234

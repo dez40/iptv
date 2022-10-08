@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
 #EXTINF:-1,Калейдоскоп ТВ
 #EXTGRP: Познавательные
 http://178.163.4.164:4022/udp/234.0.0.1:2000
@@ -110,7 +110,7 @@ http://178.163.4.164:4022/udp/234.0.0.201:2000
 #EXTINF:-1,Россия К
 #EXTGRP: ОБЩИЕ
 http://178.163.4.164:4022/udp/234.0.0.202:2000
-#EXTINF:-1,5 kanal
+#EXTINF:-1,ПЯТЫЙ КАНАЛ
 #EXTGRP: ОБЩИЕ
 http://178.163.4.164:4022/udp/234.0.0.205:2000
 #EXTINF:-1,НТВ
